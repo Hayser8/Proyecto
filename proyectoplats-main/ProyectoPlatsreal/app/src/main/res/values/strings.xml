@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Musiccc</string>
+    <!-- Listening Screen strings -->
+    <string name="listening_title">Escuchando</string>
+    <string name="publish_prompt">Publica qué estás escuchando ahora mismo!</string>
+    <string name="feed_title">Feed</string>
+    <string name="maluma_song_title">Maluma - Mojando asientos</string>
+    <string name="maluma_song_link">https://www.youtube.com/watch?v=8rDvucIcOF4</string>
+    <string name="logo_content_desc">Logo</string>
+    <!-- PublishSongScreen strings -->
+    <string name="publishsong_title">Escuchando</string>
+    <string name="song_name_label">Nombre de la canción</string>
+    <string name="song_artist_label">Artista de la canción</string>
+    <string name="publish_button">Publicar</string>
+    <!-- PlaylistsScreen strings -->
+    <string name="playlists_title">Playlists</string>
+    <string name="generate_button">Generar</string>
+    <string name="filter_placeholder">Ingresa el %1$s de la playlist</string>
+    <!-- MainScreen strings -->
+    <string name="search_placeholder">¿Qué quieres buscar?</string>
+    <string name="search_icon_description">Search Icon</string>
+    <!-- ... otras cadenas ... -->
+    <string name="settings_title">Ajustes</string>
+    <string name="dark_mode_label">Dark Mode</string>
+    <string name="logo_content_description">Logo</string>
+</resources>
